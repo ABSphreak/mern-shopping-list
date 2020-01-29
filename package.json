@@ -1,0 +1,19 @@
+{
+  "name": "mern-shopping-list",
+  "version": "1.0.0",
+  "description": "Shopping List built with MERN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABSphreak/mern-shopping-list.git"
+  },
+  "author": "Abhinav Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ABSphreak/mern-shopping-list/issues"
+  },
+  "homepage": "https://github.com/ABSphreak/mern-shopping-list#readme"
+}
