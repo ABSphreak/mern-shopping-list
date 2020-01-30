@@ -23,9 +23,9 @@ class ShoppingList extends Component {
           onClick={() => {
             const name = prompt("Enter Item");
             if (name) {
-              this.setState(state => {
-                items: [...state.items, { id: uuid(), name }];
-              });
+              this.setState(state => ({
+                items: [...state.items, { id: uuid(), name }]
+              }));
             }
           }}
         >
