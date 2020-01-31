@@ -1,5 +1,5 @@
 <h1 align="center">MERN Stack 🛒Shopping 📝List App</h1>
-_Full Stack MERN Shopping List Application._
+__Full Stack MERN Shopping List Application.__
 
 <dl>
  <dt>HTML</dt>
