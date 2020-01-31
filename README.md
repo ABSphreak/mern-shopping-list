@@ -1,4 +1,4 @@
-<h1 style="text-align: center; color: red">MERN Stack Shopping List App</h1>
+<h1 align="center">MERN Stack Shopping List App</h1>
 🛒 Full Stack MERN Shopping List Application 🙉🚄⚛💚
 
 <dl>
