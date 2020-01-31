@@ -1,16 +1,22 @@
-<h1 align="center">MERN Stack 🛒Shopping 📝List App</h1>
+<h1 align="center">🛒MERN Stack Shopping List App📝</h1>
 <i>Full Stack MERN Shopping List Application.</i>
 
+## Available Scripts
+
 <dl>
- <dt>HTML</dt>
-  <dd>Hypertext Markup Language, the language for authoring web documents.</dd>
- <dt>CSS</dt>
-  <dd>Cascading Style Sheets, the language for defining the styles and presentation of an HTML document.</dd>
- <dt> JavaScript</dt>
-  <dd>A scripting language built-in to most browsers and designed to be used with web documents.</dd>
+ <dt><samp>npm run dev</samp></dt>
+  <dd>Used for running Express and React servers concurrently.</dd>
+ <dt><samp>npm run start</samp></dt>
+  <dd>Used just for running Express server in prod environment.</dd>
+ <dt><samp>npm run server</samp></dt>
+  <dd>Used just for running Express server in dev environment using <samp>nodemon</samp>.</dd>
+ <dt><samp>npm run client</samp></dt>
+  <dd>Used just for running React server.</dd>
+ <dt><samp>npm run client-install</samp></dt>
+  <dd>Used for installing React app dependencies.</dd>
 </dl>
 
-<table>
+<!-- <table>
   <colgroup>
     <col span="3">
     <col class="total">
@@ -44,4 +50,4 @@
     <td colspan="3">TOTAL</td>
     <td>5.25</td>
   </tr>
-</table>
+</table> -->
