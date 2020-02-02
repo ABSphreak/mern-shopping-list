@@ -39,7 +39,7 @@ class ItemModal extends Component {
     };
 
     // Add item via addItem action
-    this.PaymentResponse.addItem(newItem);
+    this.props.addItem(newItem);
 
     // Close Modal
     this.toggle();
@@ -85,4 +85,8 @@ class ItemModal extends Component {
   }
 }
 
-export default connect()(ItemModal);
+const mapStateToProps = state => ({
+  item: state.item
+});
+
+export default connect(mapStateToProps, { addItem })(ItemModal);
