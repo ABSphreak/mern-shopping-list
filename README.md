@@ -1,5 +1,5 @@
 <h1 align="center">🛒MERN Stack - Shopping List App📝</h1>
-<p align="center">⫸<i>Check out the <a href="https://pure-basin-81033.herokuapp.com/">demo</a></i>⫷</p>
+<p align="center">⫸ <i>Check out the <a href="https://pure-basin-81033.herokuapp.com/">demo</a></i> ⫷</p>
 <i>Full Stack MERN Shopping List Application 🙉🚄⚛💚</i>
 
 ## Available Scripts
